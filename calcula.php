@@ -19,6 +19,6 @@
   // melhorando demais o desempenho do código
   if ($prime <= $calcula){
     echo $prime . ', ';
-    $i = $prime;
+    $i = $prime-1;
   }
 }
